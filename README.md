@@ -1,19 +1,19 @@
 # 📊 Financial Sales Dashboard – Power BI
 
-## 📌 Overview
+## Overview
 This project features an interactive **Financial Sales Dashboard** built using **Power BI** to analyze global sales performance.  
 It enables decision-makers to track revenue trends, understand product-wise profitability, and compare sales across regions and time periods.
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 <p align="center">
   <img src="./dashboard_preview.png" alt="Financial Sales Dashboard" width="90%">
 </p>
 
 ---
 
-## 🎯 Business Purpose
+## Business Purpose
 The dashboard helps stakeholders:
 - Monitor **overall financial performance**
 - Identify **top & low-performing products**
@@ -23,7 +23,7 @@ The dashboard helps stakeholders:
 
 ---
 
-## 🔍 Key Insights from the Dashboard
+## Key Insights from the Dashboard
 - **Gross Sales:** 127.9M  
 - **COGS:** 101.8M  
 - **Discounts:** 9.21M  
@@ -36,7 +36,7 @@ Additional observations:
 
 ---
 
-## 🧾 Dataset Description
+## Dataset Description
 | Attribute | Details |
 |----------|---------|
 | Dataset Type | Financial Sales |
@@ -46,7 +46,7 @@ Additional observations:
 
 ---
 
-## 🛠 Tools & Technologies Used
+## Tools & Technologies Used
 | Technology | Purpose |
 |-----------|---------|
 | Power BI Desktop | Data visualization & dashboard building |
@@ -56,7 +56,7 @@ Additional observations:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 Financial-Sales-Dashboard/
 │── Financial_Sales1.pbix
 │── Financial_Dataset.xlsx
@@ -66,16 +66,16 @@ Financial-Sales-Dashboard/
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 - Add forecasting for profit & revenue
 - Provide customer segmentation view
 - Publish dashboard online with Power BI Service
 
 ---
 
-## 👤 Author
+## Author
 **Abhi – Power BI Developer & Data Analyst**  
-📧 Passionate about Data Visualization | Business Insights | Dashboards
+Passionate about Data Visualization | Business Insights | Dashboards
 
 If you found this project useful, please ⭐ star the repository!
 
