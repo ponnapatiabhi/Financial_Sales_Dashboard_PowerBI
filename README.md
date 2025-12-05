@@ -1,4 +1,4 @@
-# 📊 Financial Sales Dashboard – Power BI
+# Financial Sales Dashboard – Power BI
 
 ## Overview
 This project features an interactive **Financial Sales Dashboard** built using **Power BI** to analyze global sales performance.  
